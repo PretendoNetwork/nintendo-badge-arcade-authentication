@@ -4,7 +4,7 @@ The NEX authentication server for Nintendo Badge Arcade.
 
 ## Current status
 
-The server "works". It gets requests and sends replies, but the Nintendo 3DS errors about *maintenance* of the servers.
+The authentication server works correctly and without errors (although you may need to replace the `nex-go` library and apply the latest upstream patches).
 
 ## Credits
 
