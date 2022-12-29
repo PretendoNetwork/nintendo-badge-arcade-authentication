@@ -3,7 +3,7 @@ module badge-arcade-authentication
 go 1.19
 
 require (
-	github.com/PretendoNetwork/nex-go v1.0.10
+	github.com/PretendoNetwork/nex-go v1.0.11-0.20221213205742-3b717bdfee49
 	github.com/PretendoNetwork/nex-protocols-common-go v1.0.12
 	github.com/PretendoNetwork/plogger-go v1.0.2
 	github.com/joho/godotenv v1.4.0
@@ -31,3 +31,5 @@ require (
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 	golang.org/x/text v0.3.7 // indirect
 )
+
+replace github.com/PretendoNetwork/nex-protocols-common-go => github.com/shutterbug2000/nex-protocols-common-go v0.0.0-20221228044101-847a6a1249ef
