@@ -15,7 +15,7 @@
 .env
 
 # built server
-badge-arcade-authentication
+build
 
 # logs
-log/*
+log
