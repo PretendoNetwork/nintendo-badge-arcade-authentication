@@ -1,4 +1,4 @@
-module badge-arcade-authentication
+module github.com/PretendoNetwork/badge-arcade-authentication
 
 go 1.19
 
